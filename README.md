@@ -9,7 +9,22 @@ Still not sure will I make the authorization in this app or this will get the to
 else but I will put it here as to do
 
 * Authorization (maybe)
-* Make connection to API
+* Make a http request to API endpoint
+    * Now it can get users data only
 * Print the API data
 * Send API data to database
+---
+
+# How to run this
+I'm using **PyCharm** doing this so it is easier to test it but not necessary  
+First clone this project   
+`git clone https://github.com/robado/intagramproducerpython.git`  
+
+After cloning insert your Instagram token in **instagramproducer.py** folder and then run it. There are two ways to 
+run it. One is through terminal by going to the root directory and typing 
+`python instagramproducer.py`  
+
+Second way is right clicking the 
+**instagramproducer.py** in PyCharm and run
+
 ---
